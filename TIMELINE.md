@@ -19,8 +19,8 @@
 - [x] Street Construction
 - [x] Missing Mango
 
-- [ ] Vases
-- [ ] NORT
+- [x] Vases
+- [x] NORT
 - [ ] Snap Dragons II
 
 - [ ] Culture
