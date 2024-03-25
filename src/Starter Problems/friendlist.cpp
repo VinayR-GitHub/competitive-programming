@@ -1,4 +1,3 @@
-#include <iostream>
 #include <fstream>
 #include <vector>
 #include <algorithm>
@@ -14,12 +13,11 @@ int main() {
     while (pop--) {
         int f1, f2;
         ReadFile >> f1 >> f2;
-        people [f1] += 1;
-        people [f2] += 1;
+        ++people [f1];
+        ++people [f2];
     }
 
     int el = *std::max_element(people, people + 1001);
-    std::cout << el;
 
     std::vector<int> good_kids;
     for (int i = 0; i < 1001; ++i) {

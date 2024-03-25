@@ -13,3 +13,30 @@
 - [x] Encyclopedia
 - [x] Triple Hunting
 - [x] Friendlist
+
+- [x] Ninjas
+- [ ] Pirates
+- [ ] Street Construction
+- [ ] Missing Mango
+
+- [ ] Vases
+- [ ] NORT
+- [ ] Snap Dragons II
+
+- [ ] Culture
+- [ ] Cute Numbers
+- [ ] Ladybugs
+
+- [ ] Fashion Statement
+- [ ] Art Class II
+- [ ] Hailstone Sequences
+- [ ] Nomnomnom
+
+- [ ] Castle Cavalry
+- [ ] Robot Vacuum
+- [ ] Genius
+
+- [ ] Snap Dragons
+- [ ] Melody
+- [ ] Chimera II
+- [ ] Choreography
