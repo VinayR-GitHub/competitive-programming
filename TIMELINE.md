@@ -10,6 +10,6 @@
 - [x] A Dish Best Served Gold
 - [x] Drought
 - [x] Dictionary
-- [ ] Encyclopedia
-- [ ] Triple Hunting
-- [ ] Friendlist
+- [x] Encyclopedia
+- [x] Triple Hunting
+- [x] Friendlist
