@@ -15,9 +15,9 @@
 - [x] Friendlist
 
 - [x] Ninjas
-- [ ] Pirates
-- [ ] Street Construction
-- [ ] Missing Mango
+- [x] Pirates
+- [x] Street Construction
+- [x] Missing Mango
 
 - [ ] Vases
 - [ ] NORT
