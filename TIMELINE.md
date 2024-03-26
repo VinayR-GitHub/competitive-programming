@@ -33,10 +33,10 @@
 - [x] Nomnomnom
 
 - [x] Castle Cavalry
-- [ ] Robot Vacuum
-- [ ] Genius
+- [x] Robot Vacuum
+- [x] Genius
 
-- [ ] Snap Dragons
+- [x] Snap Dragons
 - [ ] Melody
 - [ ] Chimera II
 - [ ] Choreography
