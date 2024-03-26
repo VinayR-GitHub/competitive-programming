@@ -21,14 +21,14 @@
 
 - [x] Vases
 - [x] NORT
-- [ ] Snap Dragons II
+- [x] Snap Dragons II
 
-- [ ] Culture
-- [ ] Cute Numbers
-- [ ] Ladybugs
+- [x] Culture
+- [x] Cute Numbers
+- [x] Ladybugs
 
-- [ ] Fashion Statement
-- [ ] Art Class II
+- [x] Fashion Statement
+- [x] Art Class II
 - [ ] Hailstone Sequences
 - [ ] Nomnomnom
 
