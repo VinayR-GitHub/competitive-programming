@@ -29,10 +29,10 @@
 
 - [x] Fashion Statement
 - [x] Art Class II
-- [ ] Hailstone Sequences
-- [ ] Nomnomnom
+- [x] Hailstone Sequences
+- [x] Nomnomnom
 
-- [ ] Castle Cavalry
+- [x] Castle Cavalry
 - [ ] Robot Vacuum
 - [ ] Genius
 
