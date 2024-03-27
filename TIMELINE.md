@@ -37,6 +37,6 @@
 - [x] Genius
 
 - [x] Snap Dragons
-- [ ] Melody
+- [x] Melody
 - [ ] Chimera II
 - [ ] Choreography
