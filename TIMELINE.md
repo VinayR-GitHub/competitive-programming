@@ -38,5 +38,5 @@
 
 - [x] Snap Dragons
 - [x] Melody
-- [ ] Chimera II
-- [ ] Choreography
+- [x] Chimera II
+- [x] Choreography
