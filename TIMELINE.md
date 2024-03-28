@@ -42,3 +42,6 @@
 - [x] Choreography
 
 - [x] Teletrip
+- [x] Distincto's Raffle
+- [x] Making Bank
+- [x] Shoptimality
