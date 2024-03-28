@@ -40,3 +40,5 @@
 - [x] Melody
 - [x] Chimera II
 - [x] Choreography
+
+- [x] Teletrip
