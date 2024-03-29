@@ -102,7 +102,7 @@
 - [ ] Wormhole
 
 - [x] Archery
-- [ ] Frog
+- [x] Frog
 - [ ] Save-It
 - [ ] Artclass
 
