@@ -51,6 +51,6 @@
 - [x] Election II
 - [x] Level Ground
 - [x] TSP
-- [ ] Beautiful Buildings
+- [x] Beautiful Buildings
 - [ ] Composing Pyramids
 - [ ] Spaceship Shuffle
