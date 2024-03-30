@@ -90,3 +90,65 @@
 - [ ] Probe
 - [ ] Balancing Aeroplanes II
 - [ ] Carmen Sanfrancisco II: Bank Robbing
+
+- [ ] Wet Chairs
+- [ ] Ruckus League
+- [ ] Snap Dragons III: Binary Snap
+
+- [ ] Pygmy Hippos
+- [ ] Corey's Party
+- [ ] Chimera
+- [ ] Giant Hippos
+- [ ] Wormhole
+
+- [x] Archery
+- [ ] Frog
+- [ ] Save-It
+- [ ] Artclass
+
+- [ ] Cabinet Shuffle
+- [ ] King Arthur II
+- [ ] Posters
+- [ ] Awesome Frog
+
+- [ ] Sleight of Hand
+- [ ] Tickets
+- [ ] Alien
+- [ ] Slicing Paradise
+- [ ] Restaurants II
+
+- [ ] Oil
+- [ ] Heatwave
+- [ ] Island
+
+- [ ] Travelling Salesperson
+- [ ] Safe Cracking
+- [ ] Carmen Sanfrancisco
+- [ ] Treasure Hunt
+- [ ] No (One) Left
+
+- [ ] Atlantis Rising
+- [ ] Settling Debts
+- [ ] Crowd Surfing
+- [ ] Chocolate Shop
+- [ ] Russian Dolls
+
+- [ ] Wetlands
+- [ ] Superphone
+- [ ] Mansion
+- [ ] Invasion
+- [ ] Restaurants
+- [ ] Air Drop
+
+- [ ] Mouse Hunt
+- [ ] Psychological Jujitsu
+- [ ] Atlantis: The Beginning
+- [ ] Ants
+- [ ] Spies V: Voices in the Dark
+- [ ] Election
+
+- [ ] Curry
+- [ ] Landmark
+- [ ] Sculpture
+- [ ] Chimpanzee
+- [ ] Jigsaw
