@@ -45,3 +45,12 @@
 - [x] Distincto's Raffle
 - [x] Making Bank
 - [x] Shoptimality
+- [ ] Wheeling and Dealing
+- [ ] Yet Another Lights Problem
+
+- [x] Election II
+- [ ] Level Ground
+- [ ] TSP
+- [ ] Beautiful Buildings
+- [ ] Composing Pyramids
+- [ ] Spaceship Shuffle
