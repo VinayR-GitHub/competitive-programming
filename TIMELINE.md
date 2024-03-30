@@ -49,7 +49,7 @@
 - [ ] Yet Another Lights Problem
 
 - [x] Election II
-- [ ] Level Ground
+- [x] Level Ground
 - [ ] TSP
 - [ ] Beautiful Buildings
 - [ ] Composing Pyramids
