@@ -65,7 +65,7 @@
 - [x] Baubles
 - [x] Cookies
 - [x] Ghost Encounters
-- [ ] Tennis Robot
+- [x] Tennis Robot
 - [ ] Ladybugs II
 - [ ] Beach Umbrellas
 
