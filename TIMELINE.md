@@ -45,7 +45,7 @@
 - [x] Distincto's Raffle
 - [x] Making Bank
 - [x] Shoptimality
-- [ ] Wheeling and Dealing
+- [x] Wheeling and Dealing
 - [ ] Yet Another Lights Problem
 
 - [x] Election II
@@ -54,3 +54,7 @@
 - [x] Beautiful Buildings
 - [ ] Composing Pyramids
 - [ ] Spaceship Shuffle
+
+- [ ] Social Distancing
+- [ ] Space Mission
+- [ ] Laser Cutter
