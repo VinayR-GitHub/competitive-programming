@@ -70,7 +70,7 @@
 - [ ] Beach Umbrellas
 
 - [x] RPS
-- [ ] Hiring Monks
+- [x] Hiring Monks
 - [ ] Medusa's Snakes
 - [ ] Evading Capture
 - [ ] Lollipops, Sweets and Chocolates II
