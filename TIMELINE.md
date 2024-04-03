@@ -46,7 +46,7 @@
 - [x] Making Bank
 - [x] Shoptimality
 - [x] Wheeling and Dealing
-- [ ] Yet Another Lights Problem
+- [x] Yet Another Lights Problem
 
 - [x] Election II
 - [x] Level Ground
