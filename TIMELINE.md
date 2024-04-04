@@ -58,5 +58,5 @@
 - [ ] Spaceship Shuffle
 
 - [x] Social Distancing
-- [ ] Space Mission
+- [x] Space Mission
 - [ ] Laser Cutter
