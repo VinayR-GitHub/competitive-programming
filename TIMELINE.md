@@ -14,6 +14,8 @@
 - [x] Triple Hunting
 - [x] Friendlist
 
+## AIO Problems
+
 - [x] Ninjas
 - [x] Pirates
 - [x] Street Construction
@@ -55,6 +57,6 @@
 - [ ] Composing Pyramids
 - [ ] Spaceship Shuffle
 
-- [ ] Social Distancing
+- [x] Social Distancing
 - [ ] Space Mission
 - [ ] Laser Cutter
