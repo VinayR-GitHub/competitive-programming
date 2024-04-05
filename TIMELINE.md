@@ -59,4 +59,4 @@
 
 - [x] Social Distancing
 - [x] Space Mission
-- [ ] Laser Cutter
+- [x] Laser Cutter
