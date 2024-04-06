@@ -1,6 +1,7 @@
 # Progress
 
 ## Starter Problems
+
 - [x] Addition
 - [x] Sitting or Standing?
 - [x] Mixed Fraction
@@ -55,7 +56,7 @@
 - [x] TSP
 - [x] Beautiful Buildings
 - [ ] Composing Pyramids
-- [ ] Spaceship Shuffle
+- [x] Spaceship Shuffle
 
 - [x] Social Distancing
 - [x] Space Mission
