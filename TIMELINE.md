@@ -80,7 +80,7 @@
 - [ ] Detective
 
 - [x] Tag
-- [ ] Snake Charmer
+- [x] Snake Charmer
 - [x] Concealed Coconut
 - [ ] Lollipops, Sweets and Chocolates
 
