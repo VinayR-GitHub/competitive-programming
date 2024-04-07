@@ -61,3 +61,16 @@
 - [x] Social Distancing
 - [x] Space Mission
 - [x] Laser Cutter
+
+- [ ] Baubles
+- [ ] Cookies
+- [ ] Ghost Encounters
+- [ ] Tennis Robot
+- [ ] Ladybugs II
+- [ ] Beach Umbrellas
+
+- [x] RPS
+- [ ] Hiring Monks
+- [ ] Medusa's Snakes
+- [ ] Evading Capture
+- [ ] Lollipops, Sweets and Chocolates II
