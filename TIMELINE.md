@@ -79,7 +79,7 @@
 - [ ] Janitor
 - [ ] Detective
 
-- [ ] Tag
+- [x] Tag
 - [ ] Snake Charmer
 - [ ] Concealed Coconut
 - [ ] Lollipops, Sweets and Chocolates
