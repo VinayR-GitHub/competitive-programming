@@ -62,7 +62,7 @@
 - [x] Space Mission
 - [x] Laser Cutter
 
-- [ ] Baubles
+- [x] Baubles
 - [ ] Cookies
 - [ ] Ghost Encounters
 - [ ] Tennis Robot
