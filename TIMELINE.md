@@ -55,7 +55,7 @@
 - [x] Level Ground
 - [x] TSP
 - [x] Beautiful Buildings
-- [ ] Composing Pyramids
+- [x] Composing Pyramids
 - [x] Spaceship Shuffle
 
 - [x] Social Distancing
