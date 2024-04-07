@@ -63,7 +63,7 @@
 - [x] Laser Cutter
 
 - [x] Baubles
-- [ ] Cookies
+- [x] Cookies
 - [x] Ghost Encounters
 - [ ] Tennis Robot
 - [ ] Ladybugs II
@@ -78,3 +78,15 @@
 - [ ] Cloud Cover
 - [ ] Janitor
 - [ ] Detective
+
+- [ ] Tag
+- [ ] Snake Charmer
+- [ ] Concealed Coconut
+- [ ] Lollipops, Sweets and Chocolates
+
+- [ ] Magic Squares
+- [ ] Farmer Drama
+- [ ] Sculpture II
+- [ ] Probe
+- [ ] Balancing Aeroplanes II
+- [ ] Carmen Sanfrancisco II: Bank Robbing
