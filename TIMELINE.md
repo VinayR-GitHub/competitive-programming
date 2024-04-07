@@ -64,7 +64,7 @@
 
 - [x] Baubles
 - [ ] Cookies
-- [ ] Ghost Encounters
+- [x] Ghost Encounters
 - [ ] Tennis Robot
 - [ ] Ladybugs II
 - [ ] Beach Umbrellas
@@ -74,3 +74,7 @@
 - [ ] Medusa's Snakes
 - [ ] Evading Capture
 - [ ] Lollipops, Sweets and Chocolates II
+
+- [ ] Cloud Cover
+- [ ] Janitor
+- [ ] Detective
