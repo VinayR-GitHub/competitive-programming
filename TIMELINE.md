@@ -75,7 +75,7 @@
 - [ ] Evading Capture
 - [ ] Lollipops, Sweets and Chocolates II
 
-- [ ] Cloud Cover
+- [x] Cloud Cover
 - [ ] Janitor
 - [ ] Detective
 
