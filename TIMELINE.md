@@ -81,7 +81,7 @@
 
 - [x] Tag
 - [ ] Snake Charmer
-- [ ] Concealed Coconut
+- [x] Concealed Coconut
 - [ ] Lollipops, Sweets and Chocolates
 
 - [ ] Magic Squares
