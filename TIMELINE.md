@@ -103,7 +103,7 @@
 
 - [x] Archery
 - [x] Frog
-- [ ] Save-It
+- [x] Save-It
 - [ ] Artclass
 
 - [ ] Cabinet Shuffle
