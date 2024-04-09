@@ -82,7 +82,7 @@
 - [x] Tag
 - [x] Snake Charmer
 - [x] Concealed Coconut
-- [ ] Lollipops, Sweets and Chocolates
+- [x] Lollipops, Sweets and Chocolates
 
 - [ ] Magic Squares
 - [ ] Farmer Drama
