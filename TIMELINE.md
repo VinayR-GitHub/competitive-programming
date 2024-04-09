@@ -84,7 +84,7 @@
 - [x] Concealed Coconut
 - [x] Lollipops, Sweets and Chocolates
 
-- [ ] Magic Squares
+- [x] Magic Squares
 - [ ] Farmer Drama
 - [ ] Sculpture II
 - [ ] Probe
