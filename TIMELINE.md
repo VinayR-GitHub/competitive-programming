@@ -122,7 +122,7 @@
 - [ ] Island
 
 - [x] Travelling Salesperson
-- [ ] Safe Cracking
+- [x] Safe Cracking
 - [ ] Carmen Sanfrancisco
 - [ ] Treasure Hunt
 - [ ] No (One) Left
