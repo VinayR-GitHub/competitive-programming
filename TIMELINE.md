@@ -95,7 +95,7 @@
 - [ ] Ruckus League
 - [ ] Snap Dragons III: Binary Snap
 
-- [ ] Pygmy Hippos
+- [x] Pygmy Hippos
 - [ ] Corey's Party
 - [ ] Chimera
 - [ ] Giant Hippos
