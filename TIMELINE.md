@@ -71,7 +71,7 @@
 
 - [x] RPS
 - [x] Hiring Monks
-- [ ] Medusa's Snakes
+- [x] Medusa's Snakes
 - [ ] Evading Capture
 - [ ] Lollipops, Sweets and Chocolates II
 
