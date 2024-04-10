@@ -121,7 +121,7 @@
 - [ ] Heatwave
 - [ ] Island
 
-- [ ] Travelling Salesperson
+- [x] Travelling Salesperson
 - [ ] Safe Cracking
 - [ ] Carmen Sanfrancisco
 - [ ] Treasure Hunt
