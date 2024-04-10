@@ -76,7 +76,7 @@
 - [ ] Lollipops, Sweets and Chocolates II
 
 - [x] Cloud Cover
-- [ ] Janitor
+- [x] Janitor
 - [ ] Detective
 
 - [x] Tag
