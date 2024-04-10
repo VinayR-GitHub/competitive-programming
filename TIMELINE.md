@@ -111,7 +111,7 @@
 - [ ] Posters
 - [ ] Awesome Frog
 
-- [ ] Sleight of Hand
+- [x] Sleight of Hand
 - [ ] Tickets
 - [ ] Alien
 - [ ] Slicing Paradise
