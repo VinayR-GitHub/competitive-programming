@@ -140,7 +140,7 @@
 - [ ] Restaurants
 - [ ] Air Drop
 
-- [ ] Mouse Hunt
+- [x] Mouse Hunt
 - [ ] Psychological Jujitsu
 - [ ] Atlantis: The Beginning
 - [ ] Ants
