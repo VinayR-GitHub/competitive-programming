@@ -113,7 +113,7 @@
 
 - [x] Sleight of Hand
 - [ ] Tickets
-- [ ] Alien
+- [x] Alien
 - [ ] Slicing Paradise
 - [ ] Restaurants II
 
