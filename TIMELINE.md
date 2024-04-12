@@ -114,7 +114,7 @@
 - [x] Sleight of Hand
 - [ ] Tickets
 - [x] Alien
-- [ ] Slicing Paradise
+- [x] Slicing Paradise
 - [ ] Restaurants II
 
 - [ ] Oil
