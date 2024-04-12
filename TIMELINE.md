@@ -118,7 +118,7 @@
 - [ ] Restaurants II
 
 - [ ] Oil
-- [ ] Heatwave
+- [x] Heatwave
 - [ ] Island
 
 - [x] Travelling Salesperson
