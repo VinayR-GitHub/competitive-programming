@@ -130,7 +130,7 @@
 - [ ] Atlantis Rising
 - [ ] Settling Debts
 - [ ] Crowd Surfing
-- [ ] Chocolate Shop
+- [x] Chocolate Shop
 - [ ] Russian Dolls
 
 - [x] Wetlands
