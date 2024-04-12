@@ -85,7 +85,7 @@
 - [x] Lollipops, Sweets and Chocolates
 
 - [x] Magic Squares
-- [ ] Farmer Drama
+- [x] Farmer Drama
 - [ ] Sculpture II
 - [x] Probe
 - [ ] Balancing Aeroplanes II
