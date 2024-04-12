@@ -124,7 +124,7 @@
 - [x] Travelling Salesperson
 - [x] Safe Cracking
 - [ ] Carmen Sanfrancisco
-- [ ] Treasure Hunt
+- [x] Treasure Hunt
 - [ ] No (One) Left
 
 - [ ] Atlantis Rising
