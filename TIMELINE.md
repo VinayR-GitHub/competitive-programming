@@ -136,7 +136,7 @@
 - [x] Wetlands
 - [ ] Superphone
 - [x] Mansion
-- [ ] Invasion
+- [x] Invasion
 - [ ] Restaurants
 - [ ] Air Drop
 
