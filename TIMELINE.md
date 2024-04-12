@@ -88,7 +88,7 @@
 - [x] Farmer Drama
 - [ ] Sculpture II
 - [x] Probe
-- [ ] Balancing Aeroplanes II
+- [x] Balancing Aeroplanes II
 - [ ] Carmen Sanfrancisco II: Bank Robbing
 
 - [ ] Wet Chairs
