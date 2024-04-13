@@ -8,7 +8,7 @@
 - [x] A Mindbending Scenario
 - [x] The Tremendous Tak-Tak Tree
 - [x] Counting to Infinity
-- [x] A Dish Best Served Gold
+- [x] A Dish Best Served Cold
 - [x] Drought
 - [x] Dictionary
 - [x] Encyclopedia
@@ -143,7 +143,7 @@
 - [x] Mouse Hunt
 - [ ] Psychological Jujitsu
 - [ ] Atlantis: The Beginning
-- [ ] Ants
+- [x] Ants
 - [ ] Spies V: Voices in the Dark
 - [ ] Election
 
