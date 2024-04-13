@@ -108,7 +108,7 @@
 
 - [ ] Cabinet Shuffle
 - [ ] King Arthur II
-- [ ] Posters
+- [x] Posters
 - [ ] Awesome Frog
 
 - [x] Sleight of Hand
