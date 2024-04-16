@@ -147,7 +147,7 @@
 - [ ] Spies V: Voices in the Dark
 - [ ] Election
 
-- [ ] Curry
+- [x] Curry
 - [ ] Landmark
 - [ ] Sculpture
 - [ ] Chimpanzee
