@@ -148,7 +148,7 @@
 - [ ] Election
 
 - [x] Curry
-- [ ] Landmark
+- [x] Landmark
 - [ ] Sculpture
 - [ ] Chimpanzee
 - [ ] Jigsaw
