@@ -141,7 +141,7 @@
 - [ ] Air Drop
 
 - [x] Mouse Hunt
-- [ ] Psychological Jujitsu
+- [x] Psychological Jujitsu
 - [ ] Atlantis: The Beginning
 - [x] Ants
 - [ ] Spies V: Voices in the Dark
