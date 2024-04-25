@@ -144,7 +144,7 @@
 - [x] Psychological Jujitsu
 - [ ] Atlantis: The Beginning
 - [x] Ants
-- [ ] Spies V: Voices in the Dark
+- [x] Spies V: Voices in the Dark
 - [ ] Election
 
 - [x] Curry
