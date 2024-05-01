@@ -72,7 +72,7 @@
 - [x] RPS
 - [x] Hiring Monks
 - [x] Medusa's Snakes
-- [ ] Evading Capture
+- [x] Evading Capture
 - [ ] Lollipops, Sweets and Chocolates II
 
 - [x] Cloud Cover
