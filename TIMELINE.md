@@ -14,6 +14,7 @@
 - [x] Encyclopedia
 - [x] Triple Hunting
 - [x] Friendlist
+- [x] Palindrome
 
 ## AIO Problems
 
