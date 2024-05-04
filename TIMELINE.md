@@ -92,7 +92,7 @@
 - [x] Balancing Aeroplanes II
 - [ ] Carmen Sanfrancisco II: Bank Robbing
 
-- [ ] Wet Chairs
+- [x] Wet Chairs
 - [ ] Ruckus League
 - [ ] Snap Dragons III: Binary Snap
 
