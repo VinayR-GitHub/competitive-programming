@@ -124,7 +124,7 @@
 
 - [x] Travelling Salesperson
 - [x] Safe Cracking
-- [ ] Carmen Sanfrancisco
+- [x] Carmen Sanfrancisco
 - [x] Treasure Hunt
 - [ ] No (One) Left
 
