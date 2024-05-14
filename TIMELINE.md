@@ -130,7 +130,7 @@
 
 - [ ] Atlantis Rising
 - [ ] Settling Debts
-- [ ] Crowd Surfing
+- [x] Crowd Surfing
 - [x] Chocolate Shop
 - [ ] Russian Dolls
 
