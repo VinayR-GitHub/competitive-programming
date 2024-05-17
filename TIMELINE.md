@@ -118,7 +118,7 @@
 - [x] Slicing Paradise
 - [ ] Restaurants II
 
-- [ ] Oil
+- [x] Oil
 - [x] Heatwave
 - [ ] Island
 
