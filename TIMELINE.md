@@ -128,7 +128,7 @@
 - [x] Treasure Hunt
 - [ ] No (One) Left
 
-- [ ] Atlantis Rising
+- [x] Atlantis Rising
 - [ ] Settling Debts
 - [x] Crowd Surfing
 - [x] Chocolate Shop
