@@ -143,7 +143,7 @@
 
 - [x] Mouse Hunt
 - [x] Psychological Jujitsu
-- [ ] Atlantis: The Beginning
+- [x] Atlantis: The Beginning
 - [x] Ants
 - [x] Spies V: Voices in the Dark
 - [ ] Election
