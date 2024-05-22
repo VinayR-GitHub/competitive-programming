@@ -138,7 +138,7 @@
 - [x] Superphone
 - [x] Mansion
 - [x] Invasion
-- [ ] Restaurants
+- [x] Restaurants
 - [ ] Air Drop
 
 - [x] Mouse Hunt
