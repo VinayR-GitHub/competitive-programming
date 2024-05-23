@@ -153,3 +153,20 @@
 - [ ] Sculpture
 - [x] Chimpanzee
 - [ ] Jigsaw
+
+## Alpha Contest Problems
+
+- [x] Breaking Bars
+- [ ] Winter II
+- [ ] Mixing Madness
+- [ ] Jealousy II
+
+- [ ] Chocolate Bar
+- [ ] Ecofriendly Trip
+- [ ] Sewers
+- [ ] Pearls
+
+- [ ] Hippo Marshes
+- [ ] Alternating Jumps
+- [ ] Fair Meetings
+- [ ] Ramp
