@@ -150,7 +150,7 @@
 
 - [x] Curry
 - [x] Landmark
-- [ ] Sculpture
+- [x] Sculpture
 - [x] Chimpanzee
 - [ ] Jigsaw
 
