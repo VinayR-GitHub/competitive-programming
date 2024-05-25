@@ -129,7 +129,7 @@
 - [ ] No (One) Left
 
 - [x] Atlantis Rising
-- [ ] Settling Debts
+- [x] Settling Debts
 - [x] Crowd Surfing
 - [x] Chocolate Shop
 - [ ] Russian Dolls
