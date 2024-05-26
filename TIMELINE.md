@@ -108,7 +108,7 @@
 - [ ] Artclass
 
 - [ ] Cabinet Shuffle
-- [ ] King Arthur II
+- [x] King Arthur II
 - [x] Posters
 - [ ] Awesome Frog
 
