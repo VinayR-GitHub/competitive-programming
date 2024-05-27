@@ -161,7 +161,7 @@
 - [ ] Mixing Madness
 - [ ] Jealousy II
 
-- [ ] Chocolate Bar
+- [x] Chocolate Bar
 - [ ] Ecofriendly Trip
 - [ ] Sewers
 - [ ] Pearls
