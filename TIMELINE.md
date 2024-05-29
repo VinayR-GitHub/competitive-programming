@@ -99,7 +99,7 @@
 - [x] Pygmy Hippos
 - [ ] Corey's Party
 - [ ] Chimera
-- [ ] Giant Hippos
+- [x] Giant Hippos
 - [ ] Wormhole
 
 - [x] Archery
