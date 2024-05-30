@@ -113,7 +113,7 @@
 - [ ] Awesome Frog
 
 - [x] Sleight of Hand
-- [ ] Tickets
+- [x] Tickets
 - [x] Alien
 - [x] Slicing Paradise
 - [ ] Restaurants II
