@@ -116,7 +116,7 @@
 - [x] Tickets
 - [x] Alien
 - [x] Slicing Paradise
-- [ ] Restaurants II
+- [x] Restaurants II
 
 - [x] Oil
 - [x] Heatwave
