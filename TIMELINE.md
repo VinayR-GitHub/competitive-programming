@@ -157,7 +157,7 @@
 ## Alpha Contest Problems
 
 - [x] Breaking Bars
-- [ ] Winter II
+- [x] Winter II
 - [ ] Mixing Madness
 - [ ] Jealousy II
 
