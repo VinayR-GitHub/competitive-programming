@@ -178,7 +178,7 @@
 - [ ] Purchasing Paint
 
 - [x] Sandwich Holes
-- [ ] Bracelet Jewels
+- [x] Bracelet Jewels
 - [ ] Programming Pairs
 - [ ] Snap Dragons: Accumulate
 - [ ] Radio Transmission
