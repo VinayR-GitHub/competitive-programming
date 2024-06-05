@@ -184,6 +184,6 @@
 - [ ] Radio Transmission
 - [ ] Battleship
 
-- [ ] Jogging
+- [x] Jogging
 - [ ] Endgame
 - [ ] Superheroes
