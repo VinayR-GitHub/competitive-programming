@@ -179,7 +179,7 @@
 
 - [x] Sandwich Holes
 - [x] Bracelet Jewels
-- [ ] Programming Pairs
+- [x] Programming Pairs
 - [ ] Snap Dragons: Accumulate
 - [ ] Radio Transmission
 - [ ] Battleship
