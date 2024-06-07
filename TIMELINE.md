@@ -173,7 +173,7 @@
 
 ## ACIO Problems
 
-- [ ] Squirrel Postal Service
+- [x] Squirrel Postal Service
 - [ ] Range Messaging
 - [ ] Purchasing Paint
 
