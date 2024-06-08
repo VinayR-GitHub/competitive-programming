@@ -171,6 +171,20 @@
 - [ ] Fair Meetings
 - [x] Ramp
 
+# AIIO Problems
+
+- [ ] Diva III: A Note Gone Sour
+- [ ] Sunday Drive
+- [ ] Train Network
+
+- [x] Snurgle Holders
+- [ ] Cats III: Off with their heads
+- [ ] Trains
+
+- [ ] Spies IV: The Case of the Missing Subtitle
+- [ ] Pipes
+- [ ] Hard Drive
+
 ## ACIO Problems
 
 - [x] Squirrel Postal Service
