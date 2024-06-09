@@ -173,6 +173,18 @@
 
 # AIIO Problems
 
+- [ ] World Bus Driving Championships
+- [ ] Kiwileaks
+- [ ] The Terrifying Canary-Bird
+
+- [x] Nomnomnomnom: Can Has Dessert?
+- [ ] Clam Oil
+- [ ] Budgie Shots
+
+- [ ] Space Invaders
+- [ ] IOI Team Selection
+- [ ] Frogs
+
 - [ ] Diva III: A Note Gone Sour
 - [ ] Sunday Drive
 - [ ] Train Network
