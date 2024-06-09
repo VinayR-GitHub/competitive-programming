@@ -181,7 +181,7 @@
 - [ ] Cats III: Off with their heads
 - [ ] Trains
 
-- [ ] Spies IV: The Case of the Missing Subtitle
+- [x] Spies IV: The Case of the Missing Subtitle
 - [ ] Pipes
 - [ ] Hard Drive
 
