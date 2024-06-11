@@ -207,7 +207,7 @@
 
 - [ ] World Bus Driving Championships
 - [x] Kiwileaks
-- [ ] The Terrifying Canary-Bird
+- [x] The Terrifying Canary-Bird
 
 - [x] Nomnomnomnom: Can Has Dessert?
 - [ ] Clam Oil
