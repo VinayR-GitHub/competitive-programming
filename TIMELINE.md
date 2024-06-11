@@ -173,8 +173,40 @@
 
 # AIIO Problems
 
+- [ ] Speed Friending
+- [ ] Overcycle
+- [ ] Curator Catastrophe
+
+- [ ] Sculpture III
+- [ ] Electrical Fault
+- [ ] Pinnacle
+
+- [ ] Winter
+- [ ] Lazy Hike
+- [ ] MAKE SQUARE
+
+- [ ] Maddy's Party
+- [ ] Darkcycle
+- [ ] Collision Free Swarming
+
+- [ ] Friendly
+- [ ] Going Home
+- [ ] Riding Jetstreams
+
+- [ ] The Treeless Trees
+- [ ] Art, Key, Texture
+- [ ] Memes
+
+- [ ] Flatman's Tower
+- [ ] Flight Planning II
+- [ ] Vitamin D
+
+- [ ] Time Warp
+- [ ] Hopscootch
+- [ ] Negotiations
+
 - [ ] World Bus Driving Championships
-- [ ] Kiwileaks
+- [x] Kiwileaks
 - [ ] The Terrifying Canary-Bird
 
 - [x] Nomnomnomnom: Can Has Dessert?
