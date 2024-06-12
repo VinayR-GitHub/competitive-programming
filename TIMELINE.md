@@ -245,3 +245,10 @@
 - [x] Jogging
 - [ ] Endgame
 - [ ] Superheroes
+
+## Selection Exams
+
+- [x] Powers of Two
+- [ ] Monogrammed Serviettes
+- [ ] Night Walk
+- [ ] Measuring Jugs
