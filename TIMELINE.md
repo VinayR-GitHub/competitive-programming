@@ -238,7 +238,7 @@
 - [x] Sandwich Holes
 - [x] Bracelet Jewels
 - [x] Programming Pairs
-- [ ] Snap Dragons: Accumulate
+- [x] Snap Dragons: Accumulate
 - [ ] Radio Transmission
 - [ ] Battleship
 
