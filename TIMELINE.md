@@ -182,7 +182,7 @@
 - [ ] Pinnacle
 
 - [ ] Winter
-- [ ] Lazy Hike
+- [x] Lazy Hike
 - [ ] MAKE SQUARE
 
 - [ ] Maddy's Party
