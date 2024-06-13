@@ -213,7 +213,7 @@
 - [ ] Clam Oil
 - [ ] Budgie Shots
 
-- [ ] Space Invaders
+- [x] Space Invaders
 - [ ] IOI Team Selection
 - [ ] Frogs
 
