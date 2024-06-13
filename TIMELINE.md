@@ -93,7 +93,7 @@
 - [ ] Carmen Sanfrancisco II: Bank Robbing
 
 - [x] Wet Chairs
-- [ ] Ruckus League
+- [x] Ruckus League
 - [ ] Snap Dragons III: Binary Snap
 
 - [x] Pygmy Hippos
