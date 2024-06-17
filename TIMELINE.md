@@ -246,6 +246,46 @@
 - [ ] Endgame
 - [ ] Superheroes
 
+## FARIO Problems
+
+- [x] Bookshelf
+- [ ] House of a Thousand Blades
+- [ ] Life
+- [ ] The Virus
+
+- [ ] The FARIO Incident
+- [ ] ABC
+- [ ] Dating Site IT
+- [ ] Human LCD
+
+- [ ] Bookshop
+- [ ] Toy Factory
+- [ ] Memories
+- [ ] Fragrance
+
+- [ ] Graffiti
+- [ ] Sledges
+- [ ] Rock Climbing
+- [ ] Leaf Blower
+
+- [ ] Rescue Robot
+- [ ] Secret Chamber of the Giza Pyramid
+- [ ] Architecture
+- [ ] Global Warming
+
+- [ ] Guards
+- [ ] Escape from Civilisation
+- [ ] Belts
+- [ ] Lucky Wheels of Doom
+
+- [ ] Mobile Construction Set
+- [ ] Monkey Tour
+- [ ] River
+
+- [ ] Stargazing
+- [ ] Chariot Race
+- [ ] Blue
+
 ## Selection Exams
 
 - [ ] Conveyor Belts
@@ -269,3 +309,5 @@
 - [x] A Not So Simple Sort
 - [x] Bracket Matching
 - [x] Gossip Chains
+- [ ] Queues II
+- [ ] Stacks
