@@ -248,6 +248,11 @@
 
 ## Selection Exams
 
+- [ ] Conveyor Belts
+- [ ] Lab Session
+- [ ] Conga Line
+- [ ] Monsters
+
 - [x] Powers of Two
 - [ ] Monogrammed Serviettes
 - [ ] Night Walk
