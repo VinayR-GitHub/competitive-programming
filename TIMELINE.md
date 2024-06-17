@@ -262,7 +262,7 @@
 
 - [ ] Pairs
 - [ ] Pie a la Mode
-- [ ] Quicksort
+- [x] Quicksort
 - [ ] Swapsies
 - [ ] Twin Prime Conjecture
 - [x] Adjacency List
