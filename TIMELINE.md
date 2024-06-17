@@ -263,4 +263,4 @@
 - [x] Adjacency List
 - [x] A Not So Simple Sort
 - [ ] Bracket Matching
-- [ ] Gossip Chains
+- [x] Gossip Chains
