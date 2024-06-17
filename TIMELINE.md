@@ -288,7 +288,7 @@
 
 ## Selection Exams
 
-- [ ] Conveyor Belts
+- [x] Conveyor Belts
 - [x] Lab Session
 - [ ] Conga Line
 - [ ] Monsters
