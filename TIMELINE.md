@@ -262,5 +262,5 @@
 - [ ] Twin Prime Conjecture
 - [x] Adjacency List
 - [x] A Not So Simple Sort
-- [ ] Bracket Matching
+- [x] Bracket Matching
 - [x] Gossip Chains
