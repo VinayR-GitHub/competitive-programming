@@ -252,3 +252,15 @@
 - [ ] Monogrammed Serviettes
 - [ ] Night Walk
 - [ ] Measuring Jugs
+
+## Training
+
+- [ ] Pairs
+- [ ] Pie a la Mode
+- [ ] Quicksort
+- [ ] Swapsies
+- [ ] Twin Prime Conjecture
+- [ ] Adjacency List
+- [x] A Not So Simple Sort
+- [ ] Bracket Matching
+- [ ] Gossip Chains
