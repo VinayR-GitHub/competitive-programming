@@ -260,7 +260,7 @@
 - [ ] Quicksort
 - [ ] Swapsies
 - [ ] Twin Prime Conjecture
-- [ ] Adjacency List
+- [x] Adjacency List
 - [x] A Not So Simple Sort
 - [ ] Bracket Matching
 - [ ] Gossip Chains
