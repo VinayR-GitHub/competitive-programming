@@ -94,7 +94,7 @@
 
 - [x] Wet Chairs
 - [x] Ruckus League
-- [ ] Snap Dragons III: Binary Snap
+- [x] Snap Dragons III: Binary Snap
 
 - [x] Pygmy Hippos
 - [ ] Corey's Party
