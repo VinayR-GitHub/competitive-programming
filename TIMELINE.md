@@ -274,7 +274,7 @@
 - [ ] Global Warming
 
 - [ ] Guards
-- [ ] Escape from Civilisation
+- [x] Escape from Civilisation
 - [ ] Belts
 - [ ] Lucky Wheels of Doom
 
