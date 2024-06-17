@@ -258,7 +258,7 @@
 - [ ] Dating Site IT
 - [ ] Human LCD
 
-- [ ] Bookshop
+- [x] Bookshop
 - [ ] Toy Factory
 - [ ] Memories
 - [ ] Fragrance
