@@ -253,7 +253,7 @@
 - [ ] Life
 - [ ] The Virus
 
-- [ ] The FARIO Incident
+- [x] The FARIO Incident
 - [ ] ABC
 - [ ] Dating Site IT
 - [ ] Human LCD
