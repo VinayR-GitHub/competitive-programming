@@ -309,5 +309,5 @@
 - [x] A Not So Simple Sort
 - [x] Bracket Matching
 - [x] Gossip Chains
-- [ ] Queues II
+- [x] Queues II
 - [ ] Stacks
