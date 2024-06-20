@@ -304,7 +304,7 @@
 - [x] Pie a la Mode
 - [x] Quicksort
 - [ ] Swapsies
-- [ ] Twin Prime Conjecture
+- [x] Twin Prime Conjecture
 - [x] Adjacency List
 - [x] A Not So Simple Sort
 - [x] Bracket Matching
