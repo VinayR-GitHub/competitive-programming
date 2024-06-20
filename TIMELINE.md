@@ -310,4 +310,4 @@
 - [x] Bracket Matching
 - [x] Gossip Chains
 - [x] Queues II
-- [ ] Stacks
+- [x] Stacks
