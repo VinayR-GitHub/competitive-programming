@@ -126,7 +126,7 @@
 - [x] Safe Cracking
 - [x] Carmen Sanfrancisco
 - [x] Treasure Hunt
-- [ ] No (One) Left
+- [x] No (One) Left
 
 - [x] Atlantis Rising
 - [x] Settling Debts
