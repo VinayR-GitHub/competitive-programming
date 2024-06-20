@@ -311,3 +311,4 @@
 - [x] Gossip Chains
 - [x] Queues II
 - [x] Stacks
+- [x] Bernard's Magic Needles
