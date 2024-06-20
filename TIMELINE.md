@@ -300,8 +300,8 @@
 
 ## Training
 
-- [ ] Pairs
-- [ ] Pie a la Mode
+- [x] Pairs
+- [x] Pie a la Mode
 - [x] Quicksort
 - [ ] Swapsies
 - [ ] Twin Prime Conjecture
