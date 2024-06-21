@@ -87,7 +87,7 @@
 
 - [x] Magic Squares
 - [x] Farmer Drama
-- [ ] Sculpture II
+- [x] Sculpture II
 - [x] Probe
 - [x] Balancing Aeroplanes II
 - [ ] Carmen Sanfrancisco II: Bank Robbing
