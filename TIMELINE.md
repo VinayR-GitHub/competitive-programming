@@ -198,7 +198,7 @@
 - [ ] Memes
 
 - [ ] Flatman's Tower
-- [ ] Flight Planning II
+- [x] Flight Planning II
 - [ ] Vitamin D
 
 - [x] Time Warp
