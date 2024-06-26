@@ -303,7 +303,7 @@
 - [x] Pairs
 - [x] Pie a la Mode
 - [x] Quicksort
-- [ ] Swapsies
+- [x] Swapsies
 - [x] Twin Prime Conjecture
 - [x] Adjacency List
 - [x] A Not So Simple Sort
