@@ -295,7 +295,7 @@
 
 - [x] Powers of Two
 - [ ] Monogrammed Serviettes
-- [ ] Night Walk
+- [x] Night Walk
 - [ ] Measuring Jugs
 
 ## Training
