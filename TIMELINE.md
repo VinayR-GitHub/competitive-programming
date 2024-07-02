@@ -293,6 +293,11 @@
 - [ ] Conga Line
 - [ ] Monsters
 
+- [x] Taxis
+- [ ] Chocolate II
+- [ ] Social Engineering
+- [ ] Pancakes II
+
 - [x] Powers of Two
 - [ ] Monogrammed Serviettes
 - [x] Night Walk
@@ -312,3 +317,5 @@
 - [x] Queues II
 - [x] Stacks
 - [x] Bernard's Magic Needles
+- [ ] King Arthur
+- [ ] Oddjobs
