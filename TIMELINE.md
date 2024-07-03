@@ -98,7 +98,7 @@
 
 - [x] Pygmy Hippos
 - [ ] Corey's Party
-- [ ] Chimera
+- [x] Chimera
 - [x] Giant Hippos
 - [ ] Wormhole
 
