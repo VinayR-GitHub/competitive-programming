@@ -239,7 +239,7 @@
 - [x] Bracelet Jewels
 - [x] Programming Pairs
 - [x] Snap Dragons: Accumulate
-- [ ] Radio Transmission
+- [x] Radio Transmission
 - [ ] Battleship
 
 - [x] Jogging
