@@ -299,7 +299,7 @@
 - [ ] Pancakes II
 
 - [x] Powers of Two
-- [ ] Monogrammed Serviettes
+- [x] Monogrammed Serviettes
 - [x] Night Walk
 - [ ] Measuring Jugs
 
