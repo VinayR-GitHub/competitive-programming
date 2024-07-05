@@ -313,7 +313,7 @@
 - [ ] Memories
 - [ ] Fragrance
 
-- [ ] Graffiti
+- [x] Graffiti
 - [ ] Sledges
 - [ ] Rock Climbing
 - [ ] Leaf Blower
