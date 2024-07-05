@@ -318,7 +318,7 @@
 - [ ] Rock Climbing
 - [ ] Leaf Blower
 
-- [ ] Rescue Robot
+- [x] Rescue Robot
 - [ ] Secret Chamber of the Giza Pyramid
 - [ ] Architecture
 - [ ] Global Warming
