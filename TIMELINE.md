@@ -248,6 +248,56 @@
 
 ## FARIO Problems
 
+- [ ] Beacons
+- [ ] Maximum Matrix
+- [ ] Hedge Maze II
+
+- [ ] Bifrost
+- [ ] Bongi
+- [ ] Hedge Maze
+
+- [ ] Audition
+- [ ] Koh-Lanta
+- [ ] Crop Circles
+
+- [ ] Telefrogs
+- [ ] River II
+- [ ] Lucky Symbols
+
+- [ ] Footwork
+- [ ] Loss of Balance
+- [ ] Emergency Reinforcement
+
+- [ ] Papa and Baby Frog
+- [ ] Coloured Walkway
+- [ ] Nav
+
+- [ ] Shadow Architecture
+- [ ] Greed
+
+- [ ] Pair Programming
+- [ ] Pyramid Cake
+- [ ] Optimal Delivery
+
+- [ ] Hooliganism
+- [ ] No Ball
+
+- [ ] Pam-can Retires
+- [ ] The Nightlight
+- [ ] Frequent Flyer
+
+- [ ] Network System Administration
+- [ ] Connect
+- [ ] Super Maria II: Another Castle
+
+- [ ] Algo-Fu
+- [ ] Super Maria
+- [ ] Torusia
+
+- [ ] Master Chef
+- [ ] Happy Feet
+- [ ] Blackout
+
 - [x] Bookshelf
 - [ ] House of a Thousand Blades
 - [ ] Life
@@ -301,7 +351,7 @@
 - [x] Powers of Two
 - [x] Monogrammed Serviettes
 - [x] Night Walk
-- [ ] Measuring Jugs
+- [x] Measuring Jugs
 
 ## Training
 
