@@ -139,7 +139,7 @@
 - [x] Mansion
 - [x] Invasion
 - [x] Restaurants
-- [ ] Air Drop
+- [x] Air Drop
 
 - [x] Mouse Hunt
 - [x] Psychological Jujitsu
