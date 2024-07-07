@@ -181,7 +181,7 @@
 - [ ] Electrical Fault
 - [ ] Pinnacle
 
-- [ ] Winter
+- [x] Winter
 - [x] Lazy Hike
 - [ ] MAKE SQUARE
 
