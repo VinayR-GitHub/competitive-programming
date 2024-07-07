@@ -299,7 +299,7 @@
 - [ ] Blackout
 
 - [x] Bookshelf
-- [ ] House of a Thousand Blades
+- [x] House of a Thousand Blades
 - [ ] Life
 - [ ] The Virus
 
