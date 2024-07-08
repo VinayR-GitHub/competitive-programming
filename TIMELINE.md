@@ -210,7 +210,7 @@
 - [x] The Terrifying Canary-Bird
 
 - [x] Nomnomnomnom: Can Has Dessert?
-- [ ] Clam Oil
+- [x] Clam Oil
 - [ ] Budgie Shots
 
 - [x] Space Invaders
