@@ -74,7 +74,7 @@
 - [x] Hiring Monks
 - [x] Medusa's Snakes
 - [x] Evading Capture
-- [ ] Lollipops, Sweets and Chocolates II
+- [x] Lollipops, Sweets and Chocolates II
 
 - [x] Cloud Cover
 - [x] Janitor
