@@ -97,7 +97,7 @@
 - [x] Snap Dragons III: Binary Snap
 
 - [x] Pygmy Hippos
-- [ ] Corey's Party
+- [x] Corey's Party
 - [x] Chimera
 - [x] Giant Hippos
 - [ ] Wormhole
