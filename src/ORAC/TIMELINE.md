@@ -368,4 +368,4 @@
 - [x] Stacks
 - [x] Bernard's Magic Needles
 - [ ] King Arthur
-- [ ] Oddjobs
+- [x] Oddjobs
